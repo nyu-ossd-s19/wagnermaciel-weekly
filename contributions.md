@@ -12,14 +12,9 @@ The descriptioin should include a brief summary of what you did.
 
 Replace the first row with your contribution. 
 
---> 
+-->
 
-
-
-
-
-| Week #       | Contribution (Link)  | Type  | Description | 
-|---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Week # | Contribution (Link)                                  | Type         | Description                            |
+| ------ | :--------------------------------------------------- | :----------- | :------------------------------------- |
+| 7      | https://github.com/facebook/react-native/issues/9195 | react native | Inquired about an issue's availability |
+|        |                                                      |              |                                        |
