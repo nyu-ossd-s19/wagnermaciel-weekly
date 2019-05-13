@@ -32,4 +32,3 @@ Replace the first row with your contribution.
 | 10+    | [link](https://github.com/fullcalendar/fullcalendar/issues/4649)                              										         | FullCalendar   | Added comment to suggest solution in bug discussion      |
 | 10+    | [link](https://github.com/ColorlibHQ/gentelella/issues/687)                              										             | Colorlib       | Added a comment to help track down a bug          			 |
 | 10+    | [link](https://github.com/surveyjs/survey-library/issues/1667)                                                            | Surveyjs       | Reported a bug to Surveyjs                               |
-| 10+    | [link](https://bugs-nyu.github.io/)                                                                                       | Bugs           | Went to a bugs event                                     |
