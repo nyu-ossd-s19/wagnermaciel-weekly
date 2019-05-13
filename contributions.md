@@ -27,3 +27,9 @@ Replace the first row with your contribution.
 | 10     | [link](https://github.com/nyu-ossd-s19/react-native-progress-bar-android/commit/4f08e436c30cc3d9ddfcb3b1f2a3c52d39b322ca) | Group Project  | Created the initial project file structure               |
 | 10     | [link](https://github.com/nyu-ossd-s19/react-native-progress-bar-android/commit/aac8fddc8e590f8ac28e1ac017927b2845968452) | Group Project  | Began creating the example for our project               |
 | 10     | [link](https://github.com/facebook/react-native/issues/23313#issuecomment-483556538)                                      | Group Project  | Asked for clarification on the issue we're working on    |
+| 10+    | [link](https://github.com/fullcalendar/fullcalendar/issues/4671)                              										         | FullCalendar   | Created a bug report 																		 |
+| 10+    | [link](https://github.com/fullcalendar/fullcalendar/pull/4669)                              										           | FullCalendar   | Created a PR for the bug I reported            			     |
+| 10+    | [link](https://github.com/fullcalendar/fullcalendar/issues/4649)                              										         | FullCalendar   | Added comment to suggest solution in bug discussion      |
+| 10+    | [link](https://github.com/ColorlibHQ/gentelella/issues/687)                              										             | Colorlib       | Added a comment to help track down a bug          			 |
+| 10+    | [link](https://github.com/surveyjs/survey-library/issues/1667)                                                            | Surveyjs       | Reported a bug to Surveyjs                               |
+| 10+    | [link](https://bugs-nyu.github.io/)                                                                                       | Bugs           | Went to a bugs event                                     |
